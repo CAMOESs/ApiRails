@@ -1,0 +1,3 @@
+[submodule "VueJs"]
+	path = VueJs
+	url = https://github.com/CAMOESs/VueJs.git
